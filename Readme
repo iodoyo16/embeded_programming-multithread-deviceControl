@@ -1,0 +1,3 @@
+# build by make command, executefile is hw1_20161581 
+# push execute file host to target devcie by 'adb push hw1_20161581 /data/local/tmp' command
+# at device /data/local/tmp , execute by ./hw1_20161581 command
